@@ -2,7 +2,6 @@ langchain==0.2.6
 langchain-community==0.2.6
 langchain-huggingface==0.0.3
 sentence-transformers==2.6.1
-coclust==0.2.1
 rouge-score==0.1.2
 tqdm==4.66.4
 torch==2.2.2
@@ -12,3 +11,4 @@ git+https://github.com/lifefeel/cclust_package.git#egg=coclust
 protobuf==6.30.1
 sentencepiece==0.2.0
 accelerate>=0.26.0
+bert-score==0.3.13
