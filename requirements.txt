@@ -11,4 +11,8 @@ git+https://github.com/lifefeel/cclust_package.git#egg=coclust
 protobuf==6.30.1
 sentencepiece==0.2.0
 accelerate>=0.26.0
+<<<<<<< Updated upstream
 bert-score==0.3.13
+=======
+bert_score
+>>>>>>> Stashed changes
