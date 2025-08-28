@@ -1,15 +1,11 @@
 # Dialog System Technology Challenge 12 - Controllable Conversation Theme Detection track
 
-Task description: [proposal paper](https://drive.google.com/file/d/1TkVYdcQenWH_MVXHGEX3O7BGMyTj5Xd_/view)
+## Track overview
+Paper: [Amazon Science](https://www.amazon.science/publications/controllable-conversational-theme-detection-track-at-dstc-12) | [Arxiv](https://arxiv.org/abs/2508.18783)
 
 DSTC12 home: https://dstc12.dstc.community/tracks
 
-## *** To participate in the track, please fill out the [registration form](https://forms.gle/URgeLuSUL95BHgWb6) ***
-
-## *** Final results submission ***
-Testset: [AppenTravel](/dstc12-data/AppenTravel)
-
-Submit the final results via [this form](https://form.jotform.com/250896633081058) (1 submission per team)
+DSTC12 @ SigDial2025 workshop home: https://dstc12.dstc.community/workshop/workshop-program
 
 ## 1. Motivation  
 Theme detection plays a critical role in analyzing conversations, particularly in domains like customer support, sales, and marketing. Automatically identifying and categorizing themes can significantly reduce the time spent on manual analysis of lengthy conversations.  
