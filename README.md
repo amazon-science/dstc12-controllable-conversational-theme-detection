@@ -1,7 +1,7 @@
 # Dialog System Technology Challenge 12 - Controllable Conversation Theme Detection track
 
 ## Track overview
-Paper: [Amazon Science](https://www.amazon.science/publications/controllable-conversational-theme-detection-track-at-dstc-12) | [Arxiv](https://arxiv.org/abs/2508.18783)
+Paper: [Amazon Science](https://www.amazon.science/publications/controllable-conversational-theme-detection-track-at-dstc-12) | [ACL Anthology]([https://arxiv.org/abs/2508.18783](https://aclanthology.org/2025.dstc-1.6/))
 
 DSTC12 home: https://dstc12.dstc.community/tracks
 
