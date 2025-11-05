@@ -130,11 +130,29 @@ We use `lmsys/vicuna-13b-v1.5` by default which we tested on 4x Nvidia V100's (1
 If you make use of the data or the findings shared here, please consider citing our work:
 
 ```bibtex
-@inproceedings{shalyminov2025controllable,
-  title = {Controllable Conversational Theme Detection Track at DSTC 12},
-  author = {Shalyminov, Igor and Su, Hang and Vincent, Jake and Singh, Siffi and Cai, Jason and Gung, James and Shu, Raphael and Mansour, Saab},
-  booktitle = {Proceedings of the Twelfth Dialog System Technology Challenge},
-  year = {2025}
+@inproceedings{shalyminov-etal-2025-controllable,
+    title = "Controllable Conversational Theme Detection Track at {DSTC} 12",
+    author = "Shalyminov, Igor  and
+      Su, Hang  and
+      Vincent, Jake W.  and
+      Singh, Siffi  and
+      Cai, Jason  and
+      Gung, James  and
+      Shu, Raphael  and
+      Mansour, Saab",
+    editor = "Hedayatnia, Behnam  and
+      Chen, Vivian  and
+      Chen, Zhang  and
+      Gupta, Raghav  and
+      Galley, Michel",
+    booktitle = "Proceedings of the Twelfth Dialog System Technology Challenge",
+    month = aug,
+    year = "2025",
+    address = "Avignon, France",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.dstc-1.6/",
+    pages = "74--90",
+    ISBN = "979-8-89176-330-2",
 }
 ```
 ## Security
